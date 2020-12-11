@@ -52,17 +52,38 @@ img { vertical-align: top;}
 h1, h2, h3, h4, h5, h6 {
     font-style: inherit;
     font-weight: 400;}
+/*  ----------------*/
 
-
-.green {
-    font-size: 20px;
-    color: rgb(91, 247, 91);
+.arial {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 30px;
+}
+.italic {
+    font-style: oblique;
+    /* oblique and italic are not the same, but look familiar*/
+}
+.weight {
+    font-weight: 700;
 }
 
-p .blue {
-    color: blue;
+.colored {
+    color: rgb(49, 235, 49);
 }
 
-.block>p {
-    color: rgb(238, 34, 170);
+.textright {
+    text-align: right;
+}
+/* text-align - горизонтальное выравнивание текста right/ center/ justify/ left*/
+
+.decoration {
+    text-decoration: line-through;
+}
+.shadow {
+    text-shadow: 2px 2px 8px rgb(44, 44, 240);
+}
+.uppercase{
+    text-transform: capitalize ;
+}
+.indent {
+    text-indent: 3%;
 }
