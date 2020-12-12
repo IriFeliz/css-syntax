@@ -96,5 +96,12 @@ h1, h2, h3, h4, h5, h6 {
     word-spacing: 11px;
 }
 .wspace {
-    white-space: pre;
+    white-space: nowrap;
 }
+
+.lineheight {
+    line-height: 30px;
+}
+
+
+
