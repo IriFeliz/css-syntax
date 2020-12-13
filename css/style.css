@@ -105,6 +105,37 @@ h1, h2, h3, h4, h5, h6 {
 }
 */
 
+h1 {
+    color: #445161;
+    font-size: 30px;
+    line-height: 25px;
+
+}
+
+h2 {
+    color:#445161;
+    font-size: 25px;
+    
+}
+
+.text {
+    color: #333333;
+    line-height: 25px;
+    
+}
+
+.bold {
+    color: #333333;
+    font-weight: bold;
+
+}
+
+.red {
+    color: #ff0000;
+    
+
+}
+
 
 
 
